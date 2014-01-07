@@ -29,3 +29,6 @@ Requirements
 * django-taggit >= 0.9.3
 * django-chunks >= 0.1
 
+Give credit where credit is due
+------------
+Forked from [yuguang/pythonfiddle](https://github.com/yuguang/pythonfiddle)
